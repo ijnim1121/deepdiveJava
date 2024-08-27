@@ -1,0 +1,18 @@
+package expDeepdive0827;
+
+public class Triangle implements Shape {
+	private String name;
+	private double side;
+	private double height;
+	
+	public void Triangle() {
+		name = "삼각형";
+		side = 4;
+		height = 5;
+	}
+	@Override
+	public void caculateArea() {
+		System.out.println("삼각형의 넓이는 : "+ 0.5*side*height + "입니다.");
+	}
+
+}

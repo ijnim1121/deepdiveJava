@@ -1,0 +1,17 @@
+package expDeepdive0827;
+
+public class Circle implements Shape {
+	private String name;
+	private double  radius;
+	
+	public Circle() {
+		name = "원";
+	}
+
+	@Override
+	public void caculateArea() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

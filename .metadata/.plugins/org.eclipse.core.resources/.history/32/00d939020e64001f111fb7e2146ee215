@@ -1,0 +1,14 @@
+package javaEx04;
+
+public class Line extends DrawingObject {
+	public Line() {
+		penColor = "red";
+	}
+
+	@Override
+	public void draw() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

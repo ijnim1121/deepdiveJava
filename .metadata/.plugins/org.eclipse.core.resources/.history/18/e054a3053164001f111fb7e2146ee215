@@ -1,0 +1,19 @@
+package expDeepdive0827;
+
+public class Rect implements Shape {
+	private String name;
+	private double w;
+	private double h;
+	
+	public void Rect() {
+		name = "직사각형";
+		w = 3;
+		h = 6;
+	}
+	@Override
+	public void caculateArea() {
+		System.out.println("직사각형의 넓이는"+ w*h + "입니다.");
+
+	}
+
+}

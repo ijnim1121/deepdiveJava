@@ -1,0 +1,6 @@
+package expDeepdive0827.Shape;
+
+public interface Shape {
+    double calculateArea();
+    String getName();
+}

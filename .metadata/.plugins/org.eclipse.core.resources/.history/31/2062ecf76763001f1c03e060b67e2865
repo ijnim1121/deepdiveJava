@@ -1,0 +1,9 @@
+package expDeepdive0826;
+
+public class Employee {
+	
+	private String name;
+	private double salary;
+	private String position;
+
+}

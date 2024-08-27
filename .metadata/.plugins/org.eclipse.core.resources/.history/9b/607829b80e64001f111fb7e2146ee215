@@ -1,0 +1,10 @@
+package javaEx04;
+
+public class DrawingMain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

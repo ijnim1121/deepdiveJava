@@ -1,0 +1,20 @@
+package expDeepdive0823;
+
+import java.util.Scanner;
+
+public class nameage {
+
+	public static void main(String[] args) {
+		System.out.println("이름을 입력해주세요: ");
+		Scanner sc = new Scanner(System.in);
+		String name = sc.toString();
+		System.out.println("나이 입력해주세요: ");
+		Scanner sc1 = new Scanner(System.in);
+		int age = sc1.nextInt();
+		
+		System.out.println("사용자의 이름은 " + name+ "사용자의 나이는 " + age);
+		
+
+	}
+
+}

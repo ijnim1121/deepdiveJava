@@ -1,0 +1,16 @@
+package expDeepdive0826;
+
+public class Triangle {
+	private int height;
+	private int side;
+	public Triangle(int height, int side) {
+		super();
+		this.height = height;
+		this.side = side;
+	}
+	
+	public double area() {
+		return (side*height)/2;
+	}
+
+}

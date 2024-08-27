@@ -1,0 +1,11 @@
+package javaEx04;
+
+public class Rect extends DrawingObject {
+
+	@Override
+	public void draw() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

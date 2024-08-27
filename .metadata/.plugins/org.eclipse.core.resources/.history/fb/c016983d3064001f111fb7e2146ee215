@@ -1,0 +1,11 @@
+package expDeepdive0827;
+
+public class Rect implements Shape {
+
+	@Override
+	public void caculateArea() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

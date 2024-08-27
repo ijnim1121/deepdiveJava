@@ -1,0 +1,6 @@
+package javaEx03;
+
+public class Computer extends Calculator{
+	
+
+}
